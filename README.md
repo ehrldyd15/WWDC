@@ -8,7 +8,7 @@
 | Custom Presentation Detents | https://github.com/ehrldyd15/WWDC/wiki/Custom-Presentation-Detents |
 | ShareLink | https://github.com/ehrldyd15/WWDC/wiki/ShareLink |
 | Image Renderer | https://github.com/ehrldyd15/WWDC/wiki/ShareLink |
-| ViewThatFits | https://github.com/ehrldyd15/WWDC/wiki/ShareLink |
+| ViewThatFits | https://github.com/ehrldyd15/WWDC/wiki/ViewThatFits|
 
 참고자료
 
