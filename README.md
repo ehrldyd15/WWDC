@@ -6,7 +6,7 @@
 | ------ | ------ |
 | Swift Charts | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
 | Custom Presentation Detents | https://github.com/ehrldyd15/WWDC/wiki/Custom-Presentation-Detents |
-| ShareLink | https://github.com/ehrldyd15/WWDC/wiki/Custom-Presentation-Detents |
+| ShareLink | https://github.com/ehrldyd15/WWDC/wiki/ShareLink |
 
 참고자료
 
