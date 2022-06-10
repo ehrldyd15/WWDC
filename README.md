@@ -10,7 +10,7 @@
 | Image Renderer | https://github.com/ehrldyd15/WWDC/wiki/Image-Renderer |
 | ViewThatFits | https://github.com/ehrldyd15/WWDC/wiki/ViewThatFits |
 | NewGrid's | https://github.com/ehrldyd15/WWDC/wiki/NewGrid's |
-| Custom Layout | https://github.com/ehrldyd15/WWDC/wiki/NewGrid's |
+| Custom Layout | https://github.com/ehrldyd15/WWDC/wiki/Custom-Layout |
 
 
 
