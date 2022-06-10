@@ -2,7 +2,7 @@
 
 ## 2022 
 
-| What's New | URL |
+| What's New in SwiftUI | URL |
 | ------ | ------ |
 | Swift Charts | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
 | Custom Presentation Detents | https://github.com/ehrldyd15/WWDC/wiki/Custom-Presentation-Detents |
