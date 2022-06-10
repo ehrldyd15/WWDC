@@ -4,8 +4,8 @@
 
 | What's New | URL |
 | ------ | ------ |
-| SwiftCharts | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
-
+| Swift Charts | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
+| Custom Presentation Detents | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
 
 참고자료
 
