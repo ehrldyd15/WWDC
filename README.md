@@ -16,7 +16,7 @@
 | Table For iPadOS | https://github.com/ehrldyd15/WWDC/wiki/Table-For-iPadOS |
 | Guage View | https://github.com/ehrldyd15/WWDC/wiki/Guage-View |
 | TapGesture With Location | https://github.com/ehrldyd15/WWDC/wiki/Guage-View |
-| ScrollView Update | https://github.com/ehrldyd15/WWDC/wiki/Guage-View |
+| ScrollView Update | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-Updates |
 
 
 
