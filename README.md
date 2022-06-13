@@ -1,6 +1,6 @@
-# WWDC
+# WWDC 2022
 
-## 2022 
+## SwiftUI
 
 | What's New in SwiftUI | URL |
 | ------ | ------ |
@@ -18,6 +18,8 @@
 | TapGesture With Location | https://github.com/ehrldyd15/WWDC/wiki/TapGesture-With-Location |
 | ScrollView Update | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-Updates |
 | Multiple Date Picker | https://github.com/ehrldyd15/WWDC/wiki/Multiple-Date-Picker |
+
+## Swift
 
 | What's New in Swift | URL |
 | ------ | ------ |
