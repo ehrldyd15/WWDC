@@ -14,7 +14,7 @@
 | New Navigation Stack | https://github.com/ehrldyd15/WWDC/wiki/New-Navigation-Stack |
 | Navigation Split View | https://github.com/ehrldyd15/WWDC/wiki/Navigation-Split-View |
 | Table For iPadOS | https://github.com/ehrldyd15/WWDC/wiki/Table-For-iPadOS |
-| Gauge View | https://github.com/ehrldyd15/WWDC/wiki/Gauge-View |
+| Guage View | https://github.com/ehrldyd15/WWDC/wiki/Guage-View |
 
 
 참고자료
