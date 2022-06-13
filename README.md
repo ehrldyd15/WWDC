@@ -13,7 +13,7 @@
 | Custom Layout(보류중) | https://github.com/ehrldyd15/WWDC/wiki/Custom-Layout |
 | New Navigation Stack | https://github.com/ehrldyd15/WWDC/wiki/New-Navigation-Stack |
 | Navigation Split View | https://github.com/ehrldyd15/WWDC/wiki/Navigation-Split-View |
-
+| Table For iPadOS | https://github.com/ehrldyd15/WWDC/wiki/Navigation-Split-View |
 
 
 참고자료
