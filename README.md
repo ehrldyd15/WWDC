@@ -15,6 +15,8 @@
 | Navigation Split View | https://github.com/ehrldyd15/WWDC/wiki/Navigation-Split-View |
 | Table For iPadOS | https://github.com/ehrldyd15/WWDC/wiki/Table-For-iPadOS |
 | Guage View | https://github.com/ehrldyd15/WWDC/wiki/Guage-View |
+| TapGesture With Location | https://github.com/ehrldyd15/WWDC/wiki/Guage-View |
+
 
 
 참고자료
