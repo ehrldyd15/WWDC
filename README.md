@@ -38,6 +38,3 @@ https://www.youtube.com/watch?v=thT00pe9epg
 
 
 
-
-
-
