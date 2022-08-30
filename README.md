@@ -19,6 +19,12 @@
 | ScrollView Update | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-Updates |
 | Multiple Date Picker | https://github.com/ehrldyd15/WWDC/wiki/Multiple-Date-Picker |
 
+## Swift
+
+| What's New in Swift | URL |
+| ------ | ------ |
+| Swift Charts | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
+
 참고자료
 
 https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app
@@ -26,6 +32,8 @@ https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_
 https://www.youtube.com/results?search_query=platforms+state+of+the+union
 
 https://www.youtube.com/watch?v=thT00pe9epg
+
+https://developer.apple.com/videos/play/wwdc2022/110354/
 
 ## Swift
 
