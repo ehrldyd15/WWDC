@@ -23,7 +23,8 @@
 
 | What's New in Swift | URL |
 | ------ | ------ |
-| Swift Charts | https://github.com/ehrldyd15/WWDC/wiki/Swift-Charts |
+| Swift generics | https://developer.apple.com/videos/play/wwdc2022/110352 |
+
 
 참고자료
 
