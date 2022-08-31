@@ -23,8 +23,19 @@
 
 | What's New in Swift | URL |
 | ------ | ------ |
+| Create Swift Package plugins | https://developer.apple.com/videos/play/wwdc2022/110401 |
+| Demystify parallelization in Xcode builds | https://developer.apple.com/videos/play/wwdc2022/110364 |
+| Design protocol interfaces in Swift | https://developer.apple.com/videos/play/wwdc2022/110353 |
+| Eliminate data races using Swift Concurrency | https://developer.apple.com/videos/play/wwdc2022/110351 |
 | Swift generics | https://developer.apple.com/videos/play/wwdc2022/110352 |
-
+| Explore more content with MusicKit | https://developer.apple.com/videos/play/wwdc2022/110347 |
+| Improve app size and runtime performance | https://developer.apple.com/videos/play/wwdc2022/110363 |
+| Meet distributed actors in Swift | https://developer.apple.com/videos/play/wwdc2022/110356 |
+| Meet Swift Async Algorithms | https://developer.apple.com/videos/play/wwdc2022/110355 |
+| Meet Swift Package plugins | https://developer.apple.com/videos/play/wwdc2022/110359 |
+| Meet Swift Regex | https://developer.apple.com/videos/play/wwdc2022/110357 |
+| Swift Regex: Beyond the basics | https://developer.apple.com/videos/play/wwdc2022/110358 |
+| Visualize and optimize Swift concurrency | https://developer.apple.com/videos/play/wwdc2022/110350 |
 
 참고자료
 
