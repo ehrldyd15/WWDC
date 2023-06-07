@@ -1,3 +1,21 @@
+# WWDC 2023
+
+## SwiftUI
+
+| What's New in SwiftUI | URL |
+| ------ | ------ |
+| Swift Data |  |
+
+## Swift
+
+| What's New in Swift | URL |
+| ------ | ------ |
+| Create Swift Package plugins |  |
+
+참고자료
+
+https://www.youtube.com/watch?v=1UHShfxysPM&t=660s
+
 # WWDC 2022
 
 ## SwiftUI
