@@ -4,7 +4,7 @@
 
 | What's New in SwiftUI | URL |
 | ------ | ------ |
-| Swift Data |  |
+| Swift Data | https://github.com/ehrldyd15/WWDC/wiki/Swift-Data |
 
 ## Swift
 
