@@ -1,13 +1,13 @@
 # WWDC 2023
 
-## SwiftUI
+## SwiftUI(for iOS17+)
 
 | What's New in SwiftUI | URL |
 | ------ | ------ |
 | Swift Data | https://github.com/ehrldyd15/WWDC/wiki/Swift-Data |
 | ScrollView New Paging | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-New-Paging |
 
-## Swift
+## Swift(for iOS17+)
 
 | What's New in Swift | URL |
 | ------ | ------ |
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=1UHShfxysPM&t=660s
 
 # WWDC 2022
 
-## SwiftUI
+## SwiftUI(for iOS16+)
 
 | What's New in SwiftUI | URL |
 | ------ | ------ |
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=1UHShfxysPM&t=660s
 | ScrollView Update | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-Updates |
 | Multiple Date Picker | https://github.com/ehrldyd15/WWDC/wiki/Multiple-Date-Picker |
 
-## Swift
+## Swift(for iOS16+)
 
 | What's New in Swift | URL |
 | ------ | ------ |
