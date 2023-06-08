@@ -6,6 +6,7 @@
 | ------ | ------ |
 | Swift Data | https://github.com/ehrldyd15/WWDC/wiki/Swift-Data |
 | ScrollView New Paging | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-New-Paging |
+| Reading Scroll | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-New-Paging |
 
 ## Swift(for iOS17+)
 
