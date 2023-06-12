@@ -11,6 +11,8 @@
 | Custom Transitions | https://github.com/ehrldyd15/WWDC/wiki/Custom-Transitions |
 | Custom Animation | https://github.com/ehrldyd15/WWDC/wiki/Custom-Animation |
 | Animation Complete Callback | https://github.com/ehrldyd15/WWDC/wiki/Animation-Complete-Callback |
+| Complete Callback | https://github.com/ehrldyd15/WWDC/wiki/Animation-Complete-Callback |
+| Updated onChange Modifier | https://github.com/ehrldyd15/WWDC/wiki/Animation-Complete-Callback |
 
 ## Swift(for iOS17+)
 
