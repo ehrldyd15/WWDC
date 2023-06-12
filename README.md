@@ -14,6 +14,7 @@
 | Updated onChange Modifier | https://github.com/ehrldyd15/WWDC/wiki/Updated-onChange-Modifier |
 | @Observable & @Bindable | https://github.com/ehrldyd15/WWDC/wiki/@Observable-&-@Bindable |
 | UnEvenRoundedRectangle | https://github.com/ehrldyd15/WWDC/wiki/UnEvenRoundedRectangle |
+| Haptics Feedback | https://github.com/ehrldyd15/WWDC/wiki/UnEvenRoundedRectangle |
 
 ## Swift(for iOS17+)
 
