@@ -12,6 +12,7 @@
 | Custom Animation | https://github.com/ehrldyd15/WWDC/wiki/Custom-Animation |
 | Animation Complete Callback | https://github.com/ehrldyd15/WWDC/wiki/Animation-Complete-Callback |
 | Updated onChange Modifier | https://github.com/ehrldyd15/WWDC/wiki/Updated-onChange-Modifier |
+| @Observable & @Bindable | https://github.com/ehrldyd15/WWDC/wiki/Updated-onChange-Modifier |
 
 ## Swift(for iOS17+)
 
