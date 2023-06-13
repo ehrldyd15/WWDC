@@ -17,7 +17,7 @@
 | Haptics Feedback | https://github.com/ehrldyd15/WWDC/wiki/Haptics-Feedback |
 | New VisualEffect API | https://github.com/ehrldyd15/WWDC/wiki/New-VisualEffect-API |
 | Animated SFSymbols | https://github.com/ehrldyd15/WWDC/wiki/Animated-SFSymbols |
-| New PhaseAnimator API | https://github.com/ehrldyd15/WWDC/wiki/Animated-SFSymbols |
+| New PhaseAnimator API | https://github.com/ehrldyd15/WWDC/wiki/New-PhaseAnimator-API |
 
 ## Swift(for iOS17+)
 
