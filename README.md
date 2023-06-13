@@ -15,7 +15,7 @@
 | @Observable & @Bindable | https://github.com/ehrldyd15/WWDC/wiki/@Observable-&-@Bindable |
 | UnEvenRoundedRectangle | https://github.com/ehrldyd15/WWDC/wiki/UnEvenRoundedRectangle |
 | Haptics Feedback | https://github.com/ehrldyd15/WWDC/wiki/Haptics-Feedback |
-| New VisualEffect API | https://github.com/ehrldyd15/WWDC/wiki/Haptics-Feedback |
+| New VisualEffect API | https://github.com/ehrldyd15/WWDC/wiki/New-VisualEffect-API |
 
 ## Swift(for iOS17+)
 
