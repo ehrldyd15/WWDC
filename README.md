@@ -4,6 +4,7 @@
 
 | What's New in SwiftUI | URL |
 | ------ | ------ |
+| What's new in SwiftUI | https://developer.apple.com/videos/play/wwdc2023/10148 |
 | Swift Data | https://github.com/ehrldyd15/WWDC/wiki/Swift-Data |
 | ScrollView New Paging | https://github.com/ehrldyd15/WWDC/wiki/ScrollView-New-Paging |
 | Reading Scroll | https://github.com/ehrldyd15/WWDC/wiki/Reading-Scroll |
@@ -23,7 +24,13 @@
 
 | What's New in Swift | URL |
 | ------ | ------ |
-| Create Swift Package plugins |  |
+| What's New in Swift | https://developer.apple.com/videos/play/wwdc2023/10164 |
+| Beyond the basics of structured concurrency | https://developer.apple.com/videos/play/wwdc2023/10170 |
+| Expand on Swift macros | https://developer.apple.com/videos/play/wwdc2023/10167 |
+| Generalize APIs with parameter packs | https://developer.apple.com/videos/play/wwdc2023/10168 |
+| Meet SwiftData | https://developer.apple.com/videos/play/wwdc2023/10187 |
+| Mix Swift and C++ | https://developer.apple.com/videos/play/wwdc2023/10172 |
+| Write Swift macros | https://developer.apple.com/videos/play/wwdc2023/10166 |
 
 참고자료
 
