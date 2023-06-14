@@ -24,7 +24,7 @@
 
 | What's New in Swift | URL |
 | ------ | ------ |
-| All video| https://developer.apple.com/videos/all-videos/ |
+| All videos| https://developer.apple.com/videos/all-videos/ |
 | What's New in Swift | https://developer.apple.com/videos/play/wwdc2023/10164 |
 | Beyond the basics of structured concurrency | https://developer.apple.com/videos/play/wwdc2023/10170 |
 | Expand on Swift macros | https://developer.apple.com/videos/play/wwdc2023/10167 |
