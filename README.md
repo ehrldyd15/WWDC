@@ -32,6 +32,7 @@
 | Meet SwiftData | https://developer.apple.com/videos/play/wwdc2023/10187 |
 | Mix Swift and C++ | https://developer.apple.com/videos/play/wwdc2023/10172 |
 | Write Swift macros | https://developer.apple.com/videos/play/wwdc2023/10166 |
+| SharePlay 기능 | https://developer.apple.com/videos/play/wwdc2023/10166 |
 
 참고자료
 
