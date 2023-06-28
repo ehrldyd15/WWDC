@@ -36,7 +36,7 @@
 | Widget의 확장 및 새로운 기능 | https://github.com/ehrldyd15/WWDC/wiki/Widget%EC%9D%98-%ED%99%95%EC%9E%A5-%EB%B0%8F-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5 |
 | Swift-DocC for Xcode15 | https://github.com/ehrldyd15/WWDC/wiki/Swift-DocC-for-Xcode15 |
 | SwiftData 개념 | https://github.com/ehrldyd15/WWDC/wiki/SwiftData-%EA%B0%9C%EB%85%90 |
-| Swift 매크로 | https://github.com/ehrldyd15/WWDC/wiki/SwiftData-%EA%B0%9C%EB%85%90 |
+| Swift 매크로 | https://github.com/ehrldyd15/WWDC/wiki/Swift-%EB%A7%A4%ED%81%AC%EB%A1%9C |
 
 참고자료
 
