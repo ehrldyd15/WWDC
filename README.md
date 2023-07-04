@@ -37,7 +37,7 @@
 | Swift-DocC for Xcode15 | https://github.com/ehrldyd15/WWDC/wiki/Swift-DocC-for-Xcode15 |
 | SwiftData 개념 | https://github.com/ehrldyd15/WWDC/wiki/SwiftData-%EA%B0%9C%EB%85%90 |
 | Swift 매크로 | https://github.com/ehrldyd15/WWDC/wiki/Swift-%EB%A7%A4%ED%81%AC%EB%A1%9C |
-| Swift의 새로운 기능 | https://github.com/ehrldyd15/WWDC/wiki/Swift-%EB%A7%A4%ED%81%AC%EB%A1%9C |
+| Swift의 새로운 기능 | https://github.com/ehrldyd15/WWDC/wiki/Swift%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5 |
 
 참고자료
 
