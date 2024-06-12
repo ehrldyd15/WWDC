@@ -1,5 +1,18 @@
 # WWDC 2024
 
+## SwiftUI(for iOS18+)
+
+| What's New in SwiftUI | URL |
+| ------ | ------ |
+| What's new in SwiftUI | https://developer.apple.com/kr/videos/play/wwdc2024/10144 |
+
+
+## Swift(for iOS18+)
+
+| What's New in Swift | URL |
+| ------ | ------ |
+| What's New in Swift | https://developer.apple.com/kr/videos/play/wwdc2024/10136 |
+
 
 # WWDC 2023
 
