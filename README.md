@@ -5,7 +5,7 @@
 | What's New in SwiftUI | URL |
 | ------ | ------ |
 | What's new in SwiftUI | https://developer.apple.com/kr/videos/play/wwdc2024/10144 |
-
+| What's new in SwiftUI (feat. Kavsoft) | https://www.youtube.com/watch?v=3k7PP6TE1h4 |
 
 ## Swift(for iOS18+)
 
