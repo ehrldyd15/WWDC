@@ -4,7 +4,7 @@
 
 | What's New in SwiftUI | URL |
 | ------ | ------ |
-| SwiftUI WebKit | https://developer.apple.com/kr/videos/play/wwdc2025/231/ |
+| SwiftUI WebKit | https://github.com/ehrldyd15/WWDC/wiki/SwiftUI_WebKit |
 
 # WWDC 2024
 
