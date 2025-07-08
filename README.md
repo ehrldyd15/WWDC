@@ -6,6 +6,8 @@
 | ------ | ------ |
 | SwiftUI WebKit | https://github.com/ehrldyd15/WWDC/wiki/SwiftUI_WebKit |
 | 새로운 디자인으로 SwiftUI 빌드 | https://github.com/ehrldyd15/WWDC/wiki/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9C%BC%EB%A1%9C-SwiftUI-%EC%95%B1-%EB%B9%8C%EB%93%9C%ED%95%98%EA%B8%B0 |
+| Kavsoft what's new in SwiftUI | https://www.youtube.com/watch?v=jwN0o8xUdXk&t=1s |
+
 
 # WWDC 2024
 
